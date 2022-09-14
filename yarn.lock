@@ -7303,10 +7303,10 @@
     "ansi-styles" "^4.0.0"
     "react-is" "^17.0.1"
 
-"prn-video-example-styles@^0.2.0":
-  "integrity" "sha512-rJQtMAnkipVlzK+kzcnZabEinYjFrWmk+EkEvWeVgg6bqyEn3D2kILJmuUrqHK5X5RVMFr4KtpMj+4ndtd/1SQ=="
-  "resolved" "https://registry.npmjs.org/prn-video-example-styles/-/prn-video-example-styles-0.2.0.tgz"
-  "version" "0.2.0"
+"prn-video-example-styles@^0.2.1":
+  "integrity" "sha512-2Mb99krLh2nWKqU+i5GRs+9t4UYlnoIyjkSMG/8/9lvRg75RRO6XymNE27XEHLPrAHyzfmCpbhrcgg7a2pRKKA=="
+  "resolved" "https://registry.npmjs.org/prn-video-example-styles/-/prn-video-example-styles-0.2.1.tgz"
+  "version" "0.2.1"
 
 "process-nextick-args@~2.0.0":
   "integrity" "sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag=="
