@@ -3,5 +3,5 @@ export const APIConstants: {
   API_KEY: string;
 } = {
   API_URL: 'https://api.themoviedb.org/3/',
-  API_KEY: '<put your api key here - never do that in production apps>',
+  API_KEY: 'c2206e28a498cdfba144afc55dd0c7a5',
 };
