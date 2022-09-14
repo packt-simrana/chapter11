@@ -31,7 +31,7 @@ const Genre = (props: GenreProps) => {
     <ScrollContainer>
       {movies.map(movie => (
         <Pressable
-          key={movie.id}
+          key={movie.ip}
           style={styles.movieTitleContainer}
           onPress={() => props.navigation.navigate('Movie', {movie: movie})}>
           {favs[movie.id] ? (
